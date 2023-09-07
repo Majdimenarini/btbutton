@@ -1,7 +1,7 @@
 {
     "name": "majdimenarini/btbutton",
     "description": "Library used by drupal/ckeditor_bootstrap_buttons",
-    "type": "library",
+    "type": "drupal-library",
     "license": "MIT", 
     "authors": [
         {
