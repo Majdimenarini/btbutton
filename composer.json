@@ -1,0 +1,13 @@
+{
+    "name": "majdimenarini/btbutton",
+    "description": "Description of the btbutton library",
+    "type": "library",
+    "license": "MIT", 
+    "authors": [
+        {
+            "name": "Majdi Menarini",
+            "email": "majdi@majdi.me"
+        }
+    ],
+    "require": {},
+}
